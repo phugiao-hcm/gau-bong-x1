@@ -19,7 +19,7 @@
           GIỚI THIỆU
         </span>
         <span class="text-white hover:text-yellow-300 cursor-pointer">
-          Gấu Bông
+          GẤU BÔNG
         </span>
         <span class="text-white hover:text-yellow-300 cursor-pointer">
           HỆ THỐNG
@@ -61,7 +61,7 @@
     >
       <span class="block text-white hover:text-yellow-300">TRANG CHỦ</span>
       <span class="block text-white hover:text-yellow-300">GIỚI THIỆU</span>
-      <span class="block text-white hover:text-yellow-300">Gấu Bông</span>
+      <span class="block text-white hover:text-yellow-300">GẤU BÔNG</span>
       <span class="block text-white hover:text-yellow-300">HỆ THỐNG</span>
       <span class="block text-white hover:text-yellow-300">TUYỂN DỤNG</span>
       <span class="block text-white hover:text-yellow-300">LIÊN HỆ</span>

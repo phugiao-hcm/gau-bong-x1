@@ -4,7 +4,7 @@
       BST CAPYBARA
     </h2>
     <Swiper
-      :slides-per-view="1"
+      :slides-per-view="1.5"
       :space-between="20"
       :breakpoints="{
         640: { slidesPerView: 1.5 },
@@ -15,7 +15,11 @@
     >
       <SwiperSlide v-for="(item, index) in products" :key="index">
         <div class="bg-white shadow-lg rounded-xl overflow-hidden">
-          <img :src="item.image" :alt="item.title" class="w-full h-auto" />
+          <img
+            :src="item.image"
+            :alt="item.title"
+            class="w-full h-[200px] object-cover rounded-t-xl"
+          />
           <div class="p-4">
             <h3 class="text-base font-semibold text-gray-800 mb-1">
               {{ item.title }}
