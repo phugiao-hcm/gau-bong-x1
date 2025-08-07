@@ -21,19 +21,19 @@
 
 <script setup>
 const icons = [
-  { image: "/images/giao-hang-tan-nha.png", label: "GIAO HÀNG TẬN NHÀ" },
-  { image: "/images/boc-qua-gia-re.png", label: "BỌC QUÀ GIÁ RẺ" },
-  { image: "/images/tang-thiep-mien-phi.png", label: "TẶNG THIỆP MIỄN PHÍ" },
-  { image: "/images/giat-gau-bog.png", label: "GIẶT GẤU BÔNG" },
-  { image: "/images/nen-nho-gau.png", label: "NÉN NHỎ GẤU" },
+  { image: "images/giao-hang-tan-nha.png", label: "GIAO HÀNG TẬN NHÀ" },
+  { image: "images/boc-qua-gia-re.png", label: "BỌC QUÀ GIÁ RẺ" },
+  { image: "images/tang-thiep-mien-phi.png", label: "TẶNG THIỆP MIỄN PHÍ" },
+  { image: "images/giat-gau-bog.png", label: "GIẶT GẤU BÔNG" },
+  { image: "images/nen-nho-gau.png", label: "NÉN NHỎ GẤU" },
 ];
 
 const banners = [
-  { image: "/images/gau_1.png" },
-  { image: "/images/gau_2.png" },
-  { image: "/images/gau_3.png" },
-  { image: "/images/gau_4.png" },
-  { image: "/images/gau_5.png" },
-  { image: "/images/gau_6.png" },
+  { image: "images/gau_1.png" },
+  { image: "images/gau_2.png" },
+  { image: "images/gau_3.png" },
+  { image: "images/gau_4.png" },
+  { image: "images/gau_5.png" },
+  { image: "images/gau_6.png" },
 ];
 </script>
